@@ -1,0 +1,1 @@
+# vue-cli-plugin-compressed-dest
